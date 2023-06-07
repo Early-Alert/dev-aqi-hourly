@@ -1,0 +1,409 @@
+{
+    "mapOptions": {
+        "showAttribution": false,
+        "extent": {
+            "xmin": -15862215.066662604,
+            "ymin": 2984101.238014204,
+            "xmax": -10676727.067797625,
+            "ymax": 7029760.271090938,
+            "spatialReference": {
+                "wkid": 102100,
+                "latestWkid": 3857
+            }
+        },
+        "spatialReference": {
+            "wkid": 102100,
+            "latestWkid": 3857
+        },
+        "scale": 18489297.737236
+    },
+    "operationalLayers": [
+        {
+            "id": "VectorTile_4381",
+            "title": "VectorTile_4381",
+            "opacity": 1,
+            "minScale": 0,
+            "maxScale": 0,
+            "type": "VectorTileLayer",
+            "styleUrl": "https://www.arcgis.com/sharing/rest/content/items/72be31d1fa6a42fc895d9a3c0fd8aeef/resources/styles/root.json",
+            "token": "K1QYDvHPoC6LuXUTjLL2Rr3QPDjjYX6MBcxgBZsxMLz5qxdNYmnOvdMaju2tB4PLh96emcsYAZbd56Va6rF0rsHYFPsnIZj-MkNCwdnHTU-usUjKo8k7GTg5LfdjMdXrnqBf8e3K8DMMEHA3hoooOZq6tRfhBWy5Txw9x7vxS4gO3xE07K_A_iUQkB89UTekPQLxIUqVIFJ4RSH5HspPfbxgEaXh09-2qu8DYu7KtSk."
+        },
+        {
+            "id": "VectorTile_8450",
+            "title": "VectorTile_8450",
+            "opacity": 1,
+            "minScale": 0,
+            "maxScale": 0,
+            "type": "VectorTileLayer",
+            "styleUrl": "https://www.arcgis.com/sharing/rest/content/items/b69e76a446ac479998ff31de839ba323/resources/styles/root.json",
+            "token": "K1QYDvHPoC6LuXUTjLL2Rr3QPDjjYX6MBcxgBZsxMLz5qxdNYmnOvdMaju2tB4PLh96emcsYAZbd56Va6rF0rsHYFPsnIZj-MkNCwdnHTU-usUjKo8k7GTg5LfdjMdXrnqBf8e3K8DMMEHA3hoooOZq6tRfhBWy5Txw9x7vxS4gO3xE07K_A_iUQkB89UTekPQLxIUqVIFJ4RSH5HspPfbxgEaXh09-2qu8DYu7KtSk."
+        },
+        {
+            "id": "AirNowLatestContoursPM25_4604",
+            "title": "AirNow – AQI Contours (Latest hour, PM2.5 only), US EPA, OAR, OAQPS",
+            "opacity": 0.51,
+            "minScale": 0,
+            "maxScale": 0,
+            "layerDefinition": {
+                "drawingInfo": {
+                    "renderer": {
+                        "authoringInfo": {
+                            "colorRamp": {
+                                "type": "multipart",
+                                "colorRamps": [
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            234,
+                                            252,
+                                            215,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            234,
+                                            252,
+                                            215,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            218,
+                                            182,
+                                            252,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            218,
+                                            182,
+                                            252,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            252,
+                                            182,
+                                            185,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            252,
+                                            182,
+                                            185,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            212,
+                                            229,
+                                            252,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            212,
+                                            229,
+                                            252,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            184,
+                                            252,
+                                            248,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            184,
+                                            252,
+                                            248,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            188,
+                                            252,
+                                            179,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            188,
+                                            252,
+                                            179,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            252,
+                                            218,
+                                            197,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            252,
+                                            218,
+                                            197,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            252,
+                                            179,
+                                            224,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            252,
+                                            179,
+                                            224,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            252,
+                                            215,
+                                            232,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            252,
+                                            215,
+                                            232,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            182,
+                                            198,
+                                            252,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            182,
+                                            198,
+                                            252,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            252,
+                                            248,
+                                            187,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            252,
+                                            248,
+                                            187,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            232,
+                                            204,
+                                            252,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            232,
+                                            204,
+                                            252,
+                                            255
+                                        ]
+                                    },
+                                    {
+                                        "type": "algorithmic",
+                                        "algorithm": "esriCIELabAlgorithm",
+                                        "fromColor": [
+                                            179,
+                                            252,
+                                            210,
+                                            255
+                                        ],
+                                        "toColor": [
+                                            179,
+                                            252,
+                                            210,
+                                            255
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "type": "uniqueValue",
+                        "field1": "gridcode",
+                        "fieldDelimiter": ",",
+                        "uniqueValueInfos": [
+                            {
+                                "symbol": {
+                                    "color": [
+                                        0,
+                                        228,
+                                        0,
+                                        255
+                                    ],
+                                    "type": "esriSFS",
+                                    "style": "esriSFSSolid"
+                                },
+                                "value": "1",
+                                "label": "Good"
+                            },
+                            {
+                                "symbol": {
+                                    "color": [
+                                        255,
+                                        255,
+                                        0,
+                                        255
+                                    ],
+                                    "type": "esriSFS",
+                                    "style": "esriSFSSolid"
+                                },
+                                "value": "2",
+                                "label": "Moderate"
+                            },
+                            {
+                                "symbol": {
+                                    "color": [
+                                        255,
+                                        126,
+                                        0,
+                                        255
+                                    ],
+                                    "type": "esriSFS",
+                                    "style": "esriSFSSolid"
+                                },
+                                "value": "3",
+                                "label": "Unhealthy for Sensitive Groups"
+                            },
+                            {
+                                "symbol": {
+                                    "color": [
+                                        255,
+                                        0,
+                                        0,
+                                        255
+                                    ],
+                                    "type": "esriSFS",
+                                    "style": "esriSFSSolid"
+                                },
+                                "value": "4",
+                                "label": "Unhealthy"
+                            },
+                            {
+                                "symbol": {
+                                    "color": [
+                                        153,
+                                        0,
+                                        76,
+                                        255
+                                    ],
+                                    "type": "esriSFS",
+                                    "style": "esriSFSSolid"
+                                },
+                                "value": "5",
+                                "label": "Very Unhealthy"
+                            },
+                            {
+                                "symbol": {
+                                    "color": [
+                                        76,
+                                        0,
+                                        38,
+                                        255
+                                    ],
+                                    "type": "esriSFS",
+                                    "style": "esriSFSSolid"
+                                },
+                                "value": "6",
+                                "label": "Hazardous"
+                            }
+                        ]
+                    }
+                }
+            },
+            "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/AirNowLatestContoursPM25/FeatureServer/0"
+        },
+        {
+            "id": "MASTER_CLIENT_LOCATIONS_5423",
+            "title": "Master Client Locations",
+            "opacity": 1,
+            "minScale": 0,
+            "maxScale": 0,
+            "layerDefinition": {
+                "drawingInfo": {
+                    "renderer": {
+                        "type": "simple",
+                        "symbol": {
+                            "color": [
+                                226,
+                                119,
+                                40,
+                                255
+                            ],
+                            "size": 7.5,
+                            "angle": 0,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "type": "esriSMS",
+                            "style": "esriSMSCircle",
+                            "outline": {
+                                "color": [
+                                    26,
+                                    26,
+                                    26,
+                                    255
+                                ],
+                                "width": 0.9975,
+                                "type": "esriSLS",
+                                "style": "esriSLSSolid"
+                            }
+                        }
+                    }
+                },
+                "definitionExpression": "clientid = 35"
+            },
+            "token": "Z5zRKyTzm_rpYetN_LK6ZW6z52bryLLcrVpCX8d1rs9m4lsaIhT2oT0sD79O-c4-3zX6e5TYu8afy4rZCQJPwGtTC_ztb9Nhn7SChXzefjaKTvZ_7vwUbisHvBJaqRG2-u29GDXMZT_DXSgRReDrRnwYQWoYnxQIrGXWY58WAETusHgq2g2Csx7ROwyWH7N_Eg_C6sbvp6I-aVa9-uZK8iULx8E3vULPafuq-4-kFe-GEf_iDr4irOJpRqVFTgamGFZLceuDBYtPqkfvE30R2g..",
+            "url": "https://maps.earlyalert.com/server/rest/services/Hosted/MASTER_CLIENT_LOCATIONS/FeatureServer/0"
+        }
+    ],
+    "exportOptions": {
+        "outputSize": [
+            946,
+            575
+        ],
+        "dpi": 96
+    }
+}
